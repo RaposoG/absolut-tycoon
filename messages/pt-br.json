@@ -1,0 +1,111 @@
+{
+  "HomePage": {
+    "title": "Planeje sua festa perfeita com",
+    "companyName": "FoxParty",
+    "subtitle": "Organize eventos inesquecíveis sem esforço. De aniversários a casamentos, a FoxParty te ajuda.",
+    "nav": {
+      "features": "Recursos",
+      "pricing": "Preços",
+      "about": "Sobre",
+      "contact": "Contato"
+    },
+    "problem": {
+      "title": "Isso parece familiar?",
+      "description": "Planejar uma festa pode ser estressante e cheio de desafios. Veja se você já passou por isso:",
+      "step1": "Dificuldade em planejar a quantidade de pessoas e o que cada um vai levar.",
+      "step2": "Desperdício de dinheiro por falta de organização.",
+      "step3": "Frustração e até amizades desfeitas por mal-entendidos."
+    },
+    "cta": {
+      "emailPlaceholder": "Digite seu email",
+      "getStarted": "Começar Agora",
+      "trialNote": "Comece seu teste grátis. Não precisa de cartão de crédito."
+    },
+    "features": {
+      "title": "Tudo o que você precisa para se organizar",
+      "emphasis": "com eficiência",
+      "feature_0": {
+        "title": "Agendamento Fácil",
+        "description": "Planeje e gerencie seus eventos facilmente com nosso calendário intuitivo. Nunca perca um detalhe com nossa interface simples e eficiente."
+      },
+      "feature_1": {
+        "title": "Gestão de Convidados",
+        "description": "Acompanhe RSVPs, requisitos alimentares e muito mais com facilidade. Torne a organização de convidados descomplicada e eficiente."
+      },
+      "feature_2": {
+        "title": "Ideias de Temas",
+        "description": "Inspire-se com nossa vasta coleção de temas e decorações para festas. Transforme qualquer evento em uma experiência memorável."
+      }
+    },
+    "testimonials": {
+      "title": "O que nossos clientes dizem",
+      "subtitle": "Veja como a FoxParty ajudou a transformar eventos em experiências inesquecíveis."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "question_0": {
+        "question": "Como a FoxParty pode me ajudar a organizar meu evento?",
+        "answer": "A FoxParty oferece ferramentas intuitivas para planejamento, gestão de convidados e ideias de temas, tornando o processo de organização mais simples e eficiente."
+      },
+      "question_1": {
+        "question": "Preciso pagar para usar a FoxParty?",
+        "answer": "Você pode começar com um teste grátis sem necessidade de cartão de crédito. Após o período de teste, há planos acessíveis disponíveis."
+      },
+      "question_2": {
+        "question": "Posso usar a FoxParty para qualquer tipo de evento?",
+        "answer": "Sim, a FoxParty é projetada para ajudar a organizar eventos de todos os tipos, desde pequenas reuniões até grandes celebrações como casamentos."
+      }
+    },
+    "ready": {
+      "title": "Pronto para Começar a Planejar?",
+      "subtitle": "Junte-se a milhares de organizadores de festas felizes e torne seu próximo evento inesquecível.",
+      "button": "Comece seu Teste Grátis"
+    },
+    "footer": {
+      "copyright": "© 2025 FoxParty. Todos os direitos reservados.",
+      "links": {
+        "price": "Preços",
+        "support": "Suporte"
+      },
+      "legal": {
+        "terms": "Termos de Serviço",
+        "privacy": "Privacidade"
+      }
+    }
+  },
+  "LoginPage": {
+    "welcome": "Bem-vindo(a)",
+    "email": "E-mail",
+    "password": "Senha",
+    "login": "Entrar",
+    "createAccount": "Criar conta",
+    "forgotPassword": "Esqueceu sua senha?",
+    "appleLogin": "Entrar com Apple",
+    "gmailLogin": "Entrar com Google",
+    "dontHaveAnAccount": "Não tem uma conta?",
+    "continueWith": "ou continuar com"
+  },
+  "SignUpPage": {
+    "welcome": "Bem-vindo(a)",
+    "email": "E-mail",
+    "name": "Nome",
+    "password": "Senha",
+    "login": "Entrar",
+    "createAccount": "Criar conta",
+    "forgotPassword": "Esqueceu sua senha?",
+    "appleLogin": "Entrar com Apple",
+    "gmailLogin": "Entrar com Google",
+    "alreadyHaveAnAccount": "Já possui uma conta?",
+    "registerWith": "ou entrar com"
+  },
+  "Party": {
+    "dialog": {
+      "title": "Criar festa 🎉",
+      "description": "Uma festa",
+      "form": {
+        "name": "Nome da festa",
+        "submit": "Criar festa"
+      }
+    }
+  }
+}
