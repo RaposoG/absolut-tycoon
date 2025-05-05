@@ -1,0 +1,76 @@
+{
+  "HomePage": {
+    "title": "Plan your perfect party with",
+    "companyName": "FoxParty",
+    "subtitle": "Organize unforgettable events effortlessly. From birthdays to weddings, FoxParty helps you.",
+    "nav": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "problem": {
+      "title": "Does this sound familiar?",
+      "description": "Planning a party can be stressful and full of challenges. See if you've experienced these:",
+      "step1": "Difficulty planning the number of people and what each person will bring.",
+      "step2": "Wasting money due to lack of organization.",
+      "step3": "Frustration and even broken friendships due to misunderstandings."
+    },
+    "cta": {
+      "emailPlaceholder": "Enter your email",
+      "getStarted": "Get Started Now",
+      "trialNote": "Start your free trial. No credit card required."
+    },
+    "features": {
+      "title": "Everything you need to organize",
+      "emphasis": "efficiently",
+      "feature_0": {
+        "title": "Easy Scheduling",
+        "description": "Plan and manage your events easily with our intuitive calendar. Never miss a detail with our simple and efficient interface."
+      },
+      "feature_1": {
+        "title": "Guest Management",
+        "description": "Track RSVPs, dietary requirements, and more with ease. Make guest organization uncomplicated and efficient."
+      },
+      "feature_2": {
+        "title": "Theme Ideas",
+        "description": "Get inspired with our vast collection of party themes and decorations. Transform any event into a memorable experience."
+      }
+    },
+    "testimonials": {
+      "title": "What our customers say",
+      "subtitle": "See how FoxParty has helped transform events into unforgettable experiences."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question_0": {
+        "question": "How can FoxParty help me organize my event?",
+        "answer": "FoxParty offers intuitive tools for planning, guest management, and theme ideas, making the organization process simpler and more efficient."
+      },
+      "question_1": {
+        "question": "Do I need to pay to use FoxParty?",
+        "answer": "You can start with a free trial without needing a credit card. After the trial period, affordable plans are available."
+      },
+      "question_2": {
+        "question": "Can I use FoxParty for any type of event?",
+        "answer": "Yes, FoxParty is designed to help organize events of all types, from small gatherings to large celebrations like weddings."
+      }
+    },
+    "ready": {
+      "title": "Ready to Start Planning?",
+      "subtitle": "Join thousands of happy party organizers and make your next event unforgettable.",
+      "button": "Start Your Free Trial"
+    },
+    "footer": {
+      "copyright": "© 2025 FoxParty. All rights reserved.",
+      "links": {
+        "price": "Pricing",
+        "support": "Support"
+      },
+      "legal": {
+        "terms": "Terms of Service",
+        "privacy": "Privacy"
+      }
+    }
+  }
+}
